@@ -1,0 +1,31 @@
+.main-tables-container{
+  justify-content: center;
+  overflow: hidden;
+}
+
+.product-cards--container{
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.product-detail--card{
+  width: 47%;
+}
+
+.section-plan--card{
+  justify-content: center;
+  overflow: hidden;
+}
+
+.footer-links ul a{
+  font-size: 1.8rem;
+  line-height: 3rem;
+}
+
+.footer-logo span{
+  width: 110px;
+  height: 90px;
+}
